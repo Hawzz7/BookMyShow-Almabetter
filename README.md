@@ -1,6 +1,7 @@
 # BookMyShow-Almabetter
 This is a simple MERN project on booking page of BookMyShow website. This is userfriendly website that everyone can use on any device.
 ## Deployment Link:-
+Click on this link to see the website how it looks and work
 * https://appbookmyshow.netlify.app
 ## Installation:-
 Clone this project to your local Computer by running the below comand on the cmd:
@@ -22,3 +23,10 @@ The running command for backend will be:
 * Node js
 * React js (for UI or frontend)
 * Tailwind
+
+## Contact:-
+On email:
+* vicky.007.cr@gmail.com
+
+Or connect on linkedin:
+* Narendra Kumar Majhi :- https://www.linkedin.com/in/narendra-kumar-majhi-78518a206
