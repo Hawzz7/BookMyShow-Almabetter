@@ -1,6 +1,8 @@
 # BookMyShow-Almabetter
 This is a simple MERN project on booking page of BookMyShow website. This is userfriendly website that everyone can use on any device.
-# Installation:-
+## Deployment Link:-
+* https://appbookmyshow.netlify.app
+## Installation:-
 Clone this project to your local Computer by running the below comand on the cmd:
 * git clone https://github.com/Hawzz7/BookMyShow-Almabetter.git
   
@@ -14,7 +16,7 @@ Since the frontend is made with vite and react therefore the running command wil
 The running command for backend will be:
 * npm start
 * This will start the frontend on the server http://localhost:8080
-# Technologies Used:-
+## Technologies Used:-
 * MongoDB (for backend data management)
 * Express (for API calls)
 * Node js
