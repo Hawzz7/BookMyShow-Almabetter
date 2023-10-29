@@ -1,0 +1,4 @@
+input:checked ~ .pool_type{
+    background-color: green;
+    color:white;
+}

@@ -1,0 +1,4 @@
+input:checked ~ .radio {
+    color:white;
+    background-color: green;
+  }
