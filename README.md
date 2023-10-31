@@ -3,6 +3,21 @@ This is a simple MERN project on booking page of BookMyShow website. This is use
 ## Deployment Link:-
 Click on this link to see the website how it looks and work
 * https://appbookmyshow.netlify.app
+
+## API Documentation:-
+### Base URL:
+* https://bookmyshow-backend-wj7l.onrender.com/bookings/lastbooking
+
+It will return the details of lastbooking in JSON format.
+
+### API Schema:
+
+|Parameter|	Type	|Description
+|---|---|---|
+movie|	string|	Required. your selected movie
+slots| 	string|	Required. your selected time
+Seats| 	number|	Required. no of seats you have seleacted
+
 ## Installation:-
 Clone this project to your local Computer by running the below comand on the cmd:
 * git clone https://github.com/Hawzz7/BookMyShow-Almabetter.git
