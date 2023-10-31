@@ -1,5 +1,6 @@
 # BookMyShow-Almabetter
 This is a simple MERN project on booking page of BookMyShow website. This is userfriendly website that everyone can use on any device.
+
 ## Deployment Link:-
 Click on this link to see the website how it looks and work
 * https://appbookmyshow.netlify.app
