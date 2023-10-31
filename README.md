@@ -40,6 +40,12 @@ The running command for backend will be:
 * React js (for UI or frontend)
 * Tailwind
 
+## Features:-
+* You can select your movie out of the multiple options 
+* You can select any time slot
+* You can select your prefered seats
+* Then you can successfully book the show by pressing the "Book" button 
+
 ## Contact:-
 On email:
 * vicky.007.cr@gmail.com
